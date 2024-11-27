@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.69.78.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732686401810
+  login: 1732679272188
+money: '0'
+last-account-name: Panzi01
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -999.4100309624563
+  y: 63.0
+  z: -1532.6062297965934
+  yaw: -156.67095947265625
+  pitch: 23.321950912475586
+lastlocation:
+  world: 0002db0d-ff51-4509-ac7d-a073f71e544c
+  world-name: world_nether
+  x: -1686.8241460514446
+  y: 128.4952008770059
+  z: -1456.0326862859347
+  yaw: -71.68025970458984
+  pitch: -13.659555435180664
